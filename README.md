@@ -5,6 +5,7 @@ This is the internship programming challenge for Reckoning Systems. Reckoning Sy
 
 The goal of this challenge is to create an interface using React that will consume the web API that we have made on our express server, which queries results from our postgresql database through the Sequelize ORM. The knowledge gained from this project would add to any student's resume. In addition, Reckoning will be offering paid internships for impressive applicant(s), who will go on to work on the whole stack of our web application, as well as work on projects for our sister company for well-being; Meta Core Health. (https://metacorehealth.com)
 
+The winning entry will recieve a bonus of *250$* if selected.
 
 ## Prerequisites:
 
